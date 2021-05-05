@@ -1,0 +1,31 @@
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.exe
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.deps.json
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.runtimeconfig.json
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.runtimeconfig.dev.json
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\ref\DotNet Web primeiros passos.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\DotNet Web primeiros passos.pdb
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\AngleSharp.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\WebDriver.Support.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\WebDriver.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\WebDriverManager.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.csprojAssemblyReference.cache
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.AssemblyInfoInputs.cache
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.AssemblyInfo.cs
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.csproj.CoreCompileInputs.cache
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.csproj.CopyComplete
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\ref\DotNet Web primeiros passos.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.pdb
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\obj\Debug\net5.0\DotNet Web primeiros passos.genruntimeconfig.cache
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\wncg\OneDrive - GFT Technologies SE\Desktop\Projetos\ProjetoPessoal\CodingDojo\DotNet Web primeiros passos\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
